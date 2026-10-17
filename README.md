@@ -8,6 +8,7 @@ A single-page personal portfolio built for the Personal Portfolio Website assign
 I'm a Data Science undergraduate at NMIMS, MPSTME Mumbai. The site covers:
 - **About**: who I am, what I study and my technical skills
 - **Projects**: ReviewLens (RAG app), RoomStyle AI, Loan Default Prediction, Cancer Death Rate Prediction
+- **Music**: my singing, Hindustani classical training, dancing and love of travel, in a music-player style layout
 - **Design**: my committee work (Analytika, MPSTME Alumni Association, Social Conclave) and selected designs
 - **Journey**: leadership, research (BARC NSRP) and community service at TISS
 - **Certifications**: what I learnt from each
@@ -23,5 +24,6 @@ Dark neo-brutalist theme with violet and cyan accents, typewriter hero text, scr
 
 ## Credits
 - Fonts: [Syne](https://fonts.google.com/specimen/Syne), [DM Sans](https://fonts.google.com/specimen/DM+Sans) and [Manrope](https://fonts.google.com/specimen/Manrope) from Google Fonts (SIL Open Font License)
+- Canva and Figma were used only to make the poster designs shown in the Design section. The website itself is hand-coded.
 - Photos, design posters, project screenshots and resume: my own
 - Code written with the help of an AI assistant (Claude), as allowed by the assignment guidelines. The content, projects and personality are mine.
